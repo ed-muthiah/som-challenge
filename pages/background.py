@@ -17,4 +17,4 @@ def app():
     - class assignment
     - outlier detection
     """)
-    st.markdown("## But enough theory! Let's see some code [Click here](https://www.gituhb.com/ed-muthiah) :point_left: to see my implementation of a simple Self Organising Map")
+    st.markdown("## But enough theory! Let's see some code [Click here](https://www.gituhb1s.com/ed-muthiah/som-challenge) :point_left: to see my implementation of a simple Self Organising Map")
